@@ -1,0 +1,13 @@
+Item,Value
+Dataset,Figshare brain tumor (CE-T1 MRI)
+Slices / patients,1532 / 163
+Train / test patients,130 / 33
+Features extracted (radiomics + extra),2250
+Features selected,150
+Best model (by CV F1),Ensemble (soft voting)
+CV accuracy (mean ± SD),0.9206 ± 0.0377
+Test accuracy,0.9538
+Test macro-F1,0.9586
+Test macro AUC,0.9944
+Test sensitivity / specificity,0.9597 / 0.9736
+Patient-level test accuracy,0.9697

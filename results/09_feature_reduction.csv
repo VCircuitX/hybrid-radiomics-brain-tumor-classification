@@ -1,0 +1,5 @@
+Step,Features
+Extracted,2250
+After variance threshold,2250
+After correlation filter (|r|>0.99),2214
+Selected (ANOVA-F top 150),150

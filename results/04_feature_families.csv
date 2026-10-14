@@ -1,0 +1,12 @@
+Feature family,Number of features
+deep (ResNet-50),2048
+peritumoral,93
+glcm,24
+firstorder,18
+glszm,16
+glrlm,16
+gldm,14
+shape2D,9
+location,7
+ngtdm,5
+Total,2250

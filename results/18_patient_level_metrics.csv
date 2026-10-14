@@ -1,0 +1,2 @@
+,Patients,Accuracy,Balanced Acc,Precision,Sensitivity (Recall),Specificity,F1-score,AUC (macro OvR),Cohen Kappa,MCC
+Ensemble (soft voting) – patient level,33,0.9696969696969697,0.9791666666666666,0.9761904761904763,0.9791666666666666,0.9833333333333334,0.9769016328156113,1.0,0.9493087557603687,0.9507737314839377

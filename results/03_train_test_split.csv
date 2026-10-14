@@ -1,0 +1,5 @@
+Tumor type,Train slices,Test slices,Train patients,Test patients
+Meningioma,551,154,63,16
+Glioma,168,37,18,4
+Pituitary,488,134,49,13
+Total,1207,325,130,33

@@ -1,0 +1,5 @@
+Tumor type,Slices,Patients,Mean tumor area (px),Median tumor area (px)
+Meningioma,705,79,4659.9,3992.0
+Glioma,205,22,6936.4,5411.0
+Pituitary,622,62,2066.4,1744.0
+Total,1532,163,3911.5,2790.5

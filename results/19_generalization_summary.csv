@@ -1,0 +1,8 @@
+Model,Training (re-substitution),Cross-validation,Test
+Logistic Regression,0.9909,0.8917,0.9262
+SVM (RBF),0.9992,0.9109,0.9446
+KNN,1.0000,0.8681,0.9385
+Random Forest,1.0000,0.8974,0.9508
+XGBoost,1.0000,0.9191,0.9385
+MLP,0.9867,0.9042,0.9415
+Ensemble (soft voting),1.0000,0.9206,0.9538

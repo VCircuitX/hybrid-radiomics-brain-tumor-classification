@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.4
+scikit-image
+matplotlib
+seaborn
+h5py
+openpyxl
+joblib
+SimpleITK
+pywavelets
+xgboost
+shap
+torch
+torchvision
+pyradiomics @ git+https://github.com/AIM-Harvard/pyradiomics.git
